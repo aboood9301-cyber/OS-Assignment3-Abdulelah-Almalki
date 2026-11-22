@@ -35,8 +35,8 @@
 | **Full Name** |  Abdulelah Abdullah Edah Almalki|
 | **Student ID** | 446050920 |
 | **University Email** | 446050920@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **GitHub Username** | aboood9301-cyber |
+| **Repository Link** | https://github.com/aboood9301-cyber/OS-Assignment3-Abdulelah-Almalki.git |
  
 ---
 
